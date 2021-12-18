@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App overflow-hidden">
+    <div className="App overflow-hidden ">
       <div className="h-80 w-screen fixed z-10">
         <Navbar />
       </div>
